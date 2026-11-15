@@ -20,6 +20,7 @@ target/
 # 3. 项目运行时上传的文件（业务数据）
 # =========================
 # 假设你的上传文件放在 uploads 或者 static/files 目录下
+avatar/
 uploads/
 files/
 static/upload/
