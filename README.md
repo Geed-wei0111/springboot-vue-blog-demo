@@ -26,10 +26,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
   <img src="https://github.com/user-attachments/assets/5bd043c8-5849-4d09-917f-3bff705b085d" width="600" />
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/43c2c06b-8d86-401e-b195-31df6861283d" width="600" />
+  <img src="https://github.com/user-attachments/assets/e91b6983-5afb-4005-97a9-7cf15b847358" width="600" />
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e91b6983-5afb-4005-97a9-7cf15b847358" width="600" />
+  <img src="https://github.com/user-attachments/assets/43c2c06b-8d86-401e-b195-31df6861283d" width="600" />
 </div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/4e854ac0-9a2b-40ae-85ab-ecc1b4dd73ba" width="600" />
