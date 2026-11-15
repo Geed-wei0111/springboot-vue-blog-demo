@@ -21,6 +21,7 @@ target/
 # =========================
 # 假设你的上传文件放在 uploads 或者 static/files 目录下
 avatar/
+- 副本.gitignore
 uploads/
 files/
 static/upload/
